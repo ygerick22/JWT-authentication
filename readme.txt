@@ -24,6 +24,25 @@ tzdata==2022.1
 virtualenv==20.17.1
 
 
+{
+  "user_email": "denzel@gmail.com",
+  "password": "password1234",
+  "First_Name": "John",
+  "Last_Name": "Doe"
+}
+
+
+
+{
+  "email": "denzel@gmail.com",
+  "password": "password1234"
+}
+
+
+
+
+
+
 
 
 
