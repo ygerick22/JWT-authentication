@@ -23,7 +23,7 @@ tomli==2.0.1
 tzdata==2022.1
 virtualenv==20.17.1
 
-
+signup JSON
 {
   "user_email": "denzel@gmail.com",
   "password": "password1234",
@@ -32,7 +32,7 @@ virtualenv==20.17.1
 }
 
 
-
+Login JSON
 {
   "email": "denzel@gmail.com",
   "password": "password1234"
